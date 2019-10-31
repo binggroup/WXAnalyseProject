@@ -1,2 +1,2 @@
 # WXAnalyseProject
-This is a project of python to parse WeiXin html
+This is a project   with some data mining  algorithms
